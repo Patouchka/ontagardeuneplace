@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#1C1610"/>
+  <!-- Table ronde -->
+  <circle cx="40" cy="40" r="13" fill="#2A1F14" stroke="#C4714A" stroke-width="1.5" stroke-opacity="0.8"/>
+  <circle cx="40" cy="40" r="4" fill="#C4714A" opacity="0.4"/>
+  <!-- Chaise dorée en haut — vide -->
+  <circle cx="40" cy="14" r="5.5" fill="#F0D080" opacity="0.95"/>
+  <circle cx="40" cy="14" r="9" fill="rgba(240,208,128,0.2)"/>
+  <!-- 6 chaises terracotta -->
+  <circle cx="60.2" cy="20.2" r="5" fill="#C4714A" opacity="0.7"/>
+  <circle cx="65.4" cy="45.2" r="5" fill="#C4714A" opacity="0.7"/>
+  <circle cx="51.6" cy="63.5" r="5" fill="#C4714A" opacity="0.7"/>
+  <circle cx="28.4" cy="63.5" r="5" fill="#C4714A" opacity="0.7"/>
+  <circle cx="14.6" cy="45.2" r="5" fill="#C4714A" opacity="0.7"/>
+  <circle cx="19.8" cy="20.2" r="5" fill="#C4714A" opacity="0.7"/>
+</svg>
